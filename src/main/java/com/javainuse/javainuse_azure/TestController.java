@@ -9,7 +9,7 @@ public class TestController {
 
     @GetMapping("/test")
     public String test() {
-        return "Hello JavaInUse";
+        return "Congrats ! your application deployed successfully in Azure Platform. !";
     }
 
 
